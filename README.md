@@ -1,7 +1,6 @@
 <!--Make all shown examples your own. Include content relevant and unique to you.-->
 <!-- The content is about electric cars and why you shouldn't buy one.-->
 # Why you shouldn't consider buying Electric Cars
-<a name="Top-page"></a>
 
 In todays market we are seeing a boom in electric cars as many people believe that it is a good way to go green and help the environment. This isn't entirely the case.\
 Electric cars have three big problems with them, manufacturing the battery, charging infrastructure, and proper recycling of the battery.
@@ -41,4 +40,6 @@ Electric cars have three big problems with them, manufacturing the battery, char
 
 \
 \
-[Back to the Top](#Top-page):+1:
+[Back to the top](#why-you-shouldnt-consider-buying-electric-cars)\
+[Reasons not to get an electric car](#main-reasons-not-to-get-a-electric-car)\
+[Links](#links)
