@@ -10,11 +10,15 @@ Electric cars have three big problems with them, manufacturing the battery, char
 
  > Mining in general is **bad** for the environment but that is a whole other topic.
 
+ ![Picture of a electric cars battery](https://d2q5yj3kkcfw7v.cloudfront.net/listing/0005/44/65135e888ceecdbf5f2d76c3664f2848b18a3a78.jpeg)
+
  The charging infrastructure plays a important role for electric cars. This is their main source of "fuel" and is where you would go to charge your car. With people buying new electric cars power companies have struggled to manage how many cars can be plugged in to these infrastructures while giving power to peoples homes. Since some electric cars aren't ready for long distance travel there needs to be many of these infrastructures to make electric cars viable to go long distance. Building these buildings not only uses a lot of power it also costs money and uses heavy machinery which causes lots of emissions.
 
- We need proper recycling procedures when the cars battery can't sustain charge.
+ ![A picture of a car charging at a charging infrastructure](https://triplogmileage.com/wp-content/uploads/elementor/thumbs/electric-vehicle-currently-charging-2-1-7dpfnkoaymgd2sfyfmhnxywm35zx6z6hz13cmo2qubu.jpg)
 
- are not as good as they are made to be. The big benefits or points that people make and we see being passed around is electric cars are green and can save the environment. Mainly the battery that goes into an electric car is causing a divide. .\
+ Lastly, we need proper recycling procedures when the cars battery can't sustain charge. Improperly discarding these battery's lead to the release of toxic heavy metals in the environment. This poses a big threat to plants, animals, and humans as the toxicity can last for years and create major heath problems.
+
+![A picture of a recycling logo with a electric car battery in the middle](https://manlybattery.com/wp-content/uploads/2023/10/235414111-845x684.webp)
 
 ### Main reasons not to get a electric car
 
@@ -27,10 +31,14 @@ Electric cars have three big problems with them, manufacturing the battery, char
 
 ## Links
 
-**This is important**
+[An article I read recently that inspired me to make this](https://bowseat.org/news/the-complex-truth-about-electric-vehicles-are-they-truly-eco-friendly-and-guilt-free/)
 
-:+1:
+[Website where I used the battery picture](https://www.myev.com/research/ev-101/electric-vehicle-battery-basics)
 
-![Car picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCar&psig=AOvVaw0k_OizcbqWsblh9Pl2F0t-&ust=1739221924954000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCntN_At4sDFQAAAAAdAAAAABAE)
+[Website where I used the car charging picture](https://triplogmileage.com/b2b/electric-car-mileage-reimbursement-rate-explained/)
 
-[Back to the Top](#Top-page)
+[Website where I used the battery recycling picture](https://manlybattery.com/the-rise-of-car-lithium-battery-recycling/)
+
+\
+\
+[Back to the Top](#Top-page):+1:
